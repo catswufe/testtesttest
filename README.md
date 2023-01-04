@@ -1,4 +1,4 @@
 # testtesttest
 
 ## editing the file
-Its a markdown file in thsi repository.
+Its a markdown file in this repository.
